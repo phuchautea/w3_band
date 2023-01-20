@@ -426,6 +426,13 @@ Từ tổng quan đến chi tiết
     width: 30px;
     display: inline-block;
 }
+.contact-info a {
+    color: #101aef;
+    opacity: 0.8;
+}
+.contact-info a:hover {
+    opacity: 1;
+}
 .contact-form {
     font-size: 15px;
 }
