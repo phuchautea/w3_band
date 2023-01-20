@@ -47,6 +47,9 @@ Từ tổng quan đến chi tiết
 .mt-16 {
     margin-top: 16px !important;
 }
+.mt-32 {
+    margin-top: 32px !important;
+}
 .col {
     float: left;
     padding-left: 8px;
@@ -301,6 +304,7 @@ Từ tổng quan đến chi tiết
     margin-top: 15px;
     cursor: pointer;
     border: none;
+    text-align: center;
 }
 .btn:hover {
     color: #000;
