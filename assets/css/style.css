@@ -165,7 +165,7 @@ Từ tổng quan đến chi tiết
     position: relative;
     margin-top: 46px;
     padding-top: 50%; /*50% của chính nó*/
-    background: url('/assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
 }
 #slider .text-content {
     position: absolute;
@@ -186,6 +186,7 @@ Từ tổng quan đến chi tiết
 #slider .text-description {
     font-size: 15px;
     margin-top: 25px;
+    text-shadow: 0 0 1px #000;
 }
 
 #content {
@@ -305,6 +306,8 @@ Từ tổng quan đến chi tiết
     cursor: pointer;
     border: none;
     text-align: center;
+    appearance: none;
+    -webkit-appearance: none;
 }
 .btn:hover {
     color: #000;
