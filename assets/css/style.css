@@ -219,7 +219,7 @@ Từ tổng quan đến chi tiết
     line-height: 1.4; /*Tiếng việt để 1.6*/
 }
 #content .member-list {
-    margin-top: 48px;
+    margin-top: 32px;
 }
 #content .member-name {
     font-size: 15px;
@@ -267,7 +267,7 @@ Từ tổng quan đến chi tiết
     margin-top: -3px;
 }
 .places-list {
-    margin-top: 32px;
+    margin-top: 16px;
 }
 .place-img {
     width: 100%;
